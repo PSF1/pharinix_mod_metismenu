@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "name": "Metis Menu",
+        "slugname": "pharinix_mod_metismenu",
+        "version": "2.0.4",
+        "autor": "Osman Nuri Okumu?",
+        "website": "https://github.com/onokumus/metisMenu",
+        "description": "A jQuery menu plugin",
+        "licence": "MIT"
+    },
+    "configuration": {},
+    "booting": [],
+    "bin_paths": [
+        "bin/"
+    ],
+    "nodetypes": {},
+    "sql": {},
+    "install":[],
+    "uninstall":[],
+    "requirements": {
+        "pharinix": "2.x.x"
+    },
+    "platforms": [
+        "win",
+        "linux"
+    ]
+}
